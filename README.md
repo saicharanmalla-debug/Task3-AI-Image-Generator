@@ -26,3 +26,9 @@ image.py  Hugging Face API
 s.py      Style selection prompt
 requirements.txt
 README.md
+
+#API key setup
+
+Create a file named task3.env
+ api_key= "APIKEYHF"
+ 
